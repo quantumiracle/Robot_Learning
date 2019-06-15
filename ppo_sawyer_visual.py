@@ -23,7 +23,7 @@ import argparse
 
 EP_MAX = 1000
 EP_LEN = 200
-N_WORKER = 1                # parallel workers
+N_WORKER = 5                # parallel workers
 GAMMA = 0.9                 # reward discount factor
 A_LR = 0.0001               # learning rate for actor
 C_LR = 0.0002               # learning rate for critic
