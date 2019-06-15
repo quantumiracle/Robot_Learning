@@ -200,7 +200,7 @@ class Worker(object):
             plt.tight_layout()
         plt.savefig('./ppo_pins.png')
         if Done:
-            plt.clf()
+            plt.clf()  # not clear the figure yet!
         # return pins position x, y for current frame, displacement of pins position x,y
         return self.pins_x[-1], self.pins_y[-1], displacement_pins_x, displacement_pins_y
 

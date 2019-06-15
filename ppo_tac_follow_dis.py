@@ -31,7 +31,7 @@ S_DIM, A_DIM, CHANNEL = 256, 2, 1       # state and action dimension
 VS_DIM = 6  # dim of vector state
 NUM_PINS  = 127  # number of pins
 S_DIM_ALL =  S_DIM*S_DIM*CHANNEL
-env_name = "./Tac_Follow_r30_dis"  # Name of the Unity environment binary to launch
+env_name = "./Tac_Follow_r30"  # Name of the Unity environment binary to launch
 # env = UnityEnv(env_name, worker_id=2, use_visual=False)
 
 
@@ -212,6 +212,13 @@ class Worker(object):
         step=0
         while not COORD.should_stop():
             s, info= self.env.reset()
+            ''' image processing '''
+            img = (s[:,:,0] * 255).astype(np.uint8)
+            try:
+                pins_x, pins_y, pins_dis_x, pins_dis_y = self.ImgProcess(img, Done=False)
+            except:
+                print('Image Processing Error!')
+            s = np.concatenate((pins_dis_x, pins_dis_y))
             ''''''
             # vector_s = info["brain_info"].vector_observations[0, :]  # get the vector observation
             # s=vector_s
@@ -265,7 +272,7 @@ class Worker(object):
                 # plt.show()
                 # print('r: ',r) # shape: scalar
                 # print('done: ', done)  # shape: True/False
-                s=s.reshape(-1)  # convert from 3D to 1D
+                # s=s.reshape(-1)  # convert from 3D to 1D
                 buffer_s.append(s)
                 buffer_a.append(a)
                 buffer_r.append((r + 8) / 8)                    # normalize reward, find to be useful

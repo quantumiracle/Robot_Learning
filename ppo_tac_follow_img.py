@@ -30,7 +30,7 @@ EPSILON = 0.2               # for clipping surrogate objective
 S_DIM, A_DIM, CHANNEL = 256, 2, 1       # state and action dimension
 VS_DIM = 6  # dim of vector state
 S_DIM_ALL =  S_DIM*S_DIM*CHANNEL
-env_name = "./Tac_Follow_r30_img"  # Name of the Unity environment binary to launch
+env_name = "./Tac_Follow_r30"  # Name of the Unity environment binary to launch
 # env = UnityEnv(env_name, worker_id=2, use_visual=False)
 
 
@@ -45,9 +45,7 @@ args = parser.parse_args()
 class PPO(object):
     def __init__(self):
         self.sess = tf.Session()
-        # self.vs = tf.placeholder(tf.float32, [None, S_DIM_ALL], 'state')
-        # self.tfs = self.vs
-        self.tfs = tf.placeholder(tf.float32, [None, S_DIM, S_DIM, 1], 'state')
+        self.tfs = tf.placeholder(tf.float32, [None, S_DIM, S_DIM, CHANNEL], 'state')
         
 
         # critic
@@ -121,7 +119,7 @@ class PPO(object):
         with tf.variable_scope(name):
             encoded = self.encoder(self.tfs)
             print('latent dim: ', encoded.shape)
-            encoded = self.tfs
+            # encoded = self.tfs
             l1 = tf.layers.dense(encoded, 200, tf.nn.tanh, trainable=trainable)
             l2 = tf.layers.dense(l1, 200, tf.nn.tanh, trainable=trainable)
             action_scale = 5.0
