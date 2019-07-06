@@ -1,0 +1,829 @@
+16/06/2019 21:31:30
+ 
+Log
+UnityEngine.Vector3[]
+UnityEngine.MonoBehaviour:print(Object)
+MeshDeformer1:Start() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/MeshDeformer1.cs:34)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Reset
+UnityEngine.Debug:Log(Object)
+TacFollowAgent:AgentReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/TacFollowAgent.cs:21)
+MLAgents.Agent:_AgentReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Agent.cs:895)
+MLAgents.Academy:ForcedFullReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:563)
+MLAgents.Academy:EnvironmentStep() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:606)
+MLAgents.Academy:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+Collide: 1
+UnityEngine.Debug:Log(Object)
+TacFollowAgent:OnCollisionEnter(Collision) (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/TacFollowAgent.cs:44)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Reset
+UnityEngine.Debug:Log(Object)
+TacFollowAgent:AgentReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/TacFollowAgent.cs:21)
+MLAgents.Agent:_AgentReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Agent.cs:895)
+MLAgents.Academy:ForcedFullReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:563)
+MLAgents.Academy:EnvironmentStep() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:590)
+MLAgents.Academy:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 100
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+16/06/2019 21:32:40
+ 
+Log
+UnityEngine.Vector3[]
+UnityEngine.MonoBehaviour:print(Object)
+MeshDeformer1:Start() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/MeshDeformer1.cs:34)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Reset
+UnityEngine.Debug:Log(Object)
+TacFollowAgent:AgentReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/TacFollowAgent.cs:21)
+MLAgents.Agent:_AgentReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Agent.cs:895)
+MLAgents.Academy:ForcedFullReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:563)
+MLAgents.Academy:EnvironmentStep() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:606)
+MLAgents.Academy:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+Collide: 1
+UnityEngine.Debug:Log(Object)
+TacFollowAgent:OnCollisionEnter(Collision) (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/TacFollowAgent.cs:44)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Reset
+UnityEngine.Debug:Log(Object)
+TacFollowAgent:AgentReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/TacFollowAgent.cs:21)
+MLAgents.Agent:_AgentReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Agent.cs:895)
+MLAgents.Academy:ForcedFullReset() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:563)
+MLAgents.Academy:EnvironmentStep() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:590)
+MLAgents.Academy:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Collide: 2
+UnityEngine.Debug:Log(Object)
+TacFollowAgent:OnCollisionEnter(Collision) (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/TacFollowAgent.cs:44)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Warning
+Missing target ref !
+UnityEngine.Debug:LogWarning(Object, Object)
+CameraFollowRotate:Refresh() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/CameraFollowRotate.cs:28)
+CameraFollowRotate:LateUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/CameraFollowRotate.cs:21)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Warning
+Missing target ref !
+UnityEngine.Debug:LogWarning(Object, Object)
+CameraFollowRotate:Refresh() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/CameraFollowRotate.cs:28)
+CameraFollowRotate:LateUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/CameraFollowRotate.cs:21)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Warning
+Missing target ref !
+UnityEngine.Debug:LogWarning(Object, Object)
+CameraFollowRotate:Refresh() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/CameraFollowRotate.cs:28)
+CameraFollowRotate:LateUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/CameraFollowRotate.cs:21)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Warning
+Missing target ref !
+UnityEngine.Debug:LogWarning(Object, Object)
+CameraFollowRotate:Refresh() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/CameraFollowRotate.cs:28)
+CameraFollowRotate:LateUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/CameraFollowRotate.cs:21)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Log
+Time Scale: 30
+UnityEngine.Debug:Log(Object)
+CameraFollow:FixedUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Tac_follow/CameraFollow.cs:23)
+
+Warning
+Missing target ref !
+UnityEngine.Debug:LogWarning(Object, Object)
+CameraFollowRotate:Refresh() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/CameraFollowRotate.cs:28)
+CameraFollowRotate:LateUpdate() (at /home/quantumiracle/Unity/ml-agents-master/RB/Assets/Soft_RL/CameraFollowRotate.cs:21)
+
+25/06/2019 20:07:50
+ 
+25/06/2019 20:07:53
+ 
+25/06/2019 20:07:57
+ 
+25/06/2019 20:08:00
+ 
+25/06/2019 20:08:03
+ 
+Log
+Distance to Target: 0.8261161
+
+Log
+Distance to Target: 0.8261161
+
+Log
+Distance to Target: 0.8261161
+
