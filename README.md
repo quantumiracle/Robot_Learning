@@ -24,6 +24,7 @@ pip install matplotlib scipy gym gym_unity
 python ppo_sawyer_visual.py --train
 ```
 
-If you meet the problem of array or list with gym_unity, try:
+## Troubleshoot:
+If you meet the problem(error) of array or list with gym_unity, try:
 
 change in conda files:  `/envs/robo/lib/python3.5/site-packages/gym_unity/envs/unity_env.py` line 172 in `_single_step()`function add `info.visual_observations=np.array(info.visual_observations)`.
